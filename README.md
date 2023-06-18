@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhi1314
-- 👀 I’m interested in android app development and reactjs
-- 🌱 I’m currently learning Btech in computer engineering
+- 👀 I’m interested in android app development and cloud
+- 🌱 I’m computer engineering
 - 📫 How to reach me mail at abhijackson619@gmail.com
 
 <!---
